@@ -1,9 +1,9 @@
 # spacex-api
 #example of user registration
-https://prnt.sc/1yk5vff
+##https://prnt.sc/1yk5vff
 ##Default first page
 ## http://localhost:8080/#/
-## Login
+## Quick access links
 ## http://localhost:8080/#/login
 ## http://localhost:8080/#/register
 ## http://localhost:8080/#/notfound
