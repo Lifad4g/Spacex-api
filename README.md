@@ -7,6 +7,7 @@
 ## http://localhost:8080/#/login
 ## http://localhost:8080/#/register
 ## http://localhost:8080/#/notfound
+## http://localhost:8080/#/launch/108 Example launch for quick access there is 108 launches. Did not want to use more than 100 because API's response was slow
 ## Project setup
 ```
 npm install
