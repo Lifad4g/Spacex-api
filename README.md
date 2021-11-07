@@ -1,4 +1,9 @@
 # spacex-api
+# I could not impelemt the back to login button and register button forwarding the main page
+Based on my research it has to <router-link: :to name:(designed page) </router-link> 
+If i could successfully impelemt this home screen would be the register page afterwards login then launches
+
+
 #example of user registration
 ##https://prnt.sc/1yk5vff
 ##Default first page
